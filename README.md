@@ -1,4 +1,4 @@
-Is Stephen Curry To Blame for Low Field Goal Percentage?
+#Is Stephen Curry To Blame for Low Field Goal Percentage?
 
 It is widely acknowledged that the most prominent NBA players exert a profound influence on the sport of basketball at all levels. Notable examples include Allen Iverson, who introduced a captivating style of dribbling, and Steve Nash, who popularized unconventional passes.
 
